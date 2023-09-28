@@ -326,4 +326,7 @@
     font-weight: 600;
     line-height: normal;
   }
+  .or_block div {
+    width: 137px;
+  }
 }
